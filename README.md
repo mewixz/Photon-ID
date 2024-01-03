@@ -1,4 +1,4 @@
-# CNN-Photon-ID
+# Photon-CNN
 Contains the code used to develop the Convolutional photonID using images from the Electromagnetic Calorimeter layers (sampling 1, 2 and 3). 
 
               <img width="514" alt="CNN" src="https://raw.githubusercontent.com/mobelfki/CNN-Photon-ID/main/.github/images/CNN.png">
